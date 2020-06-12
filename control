@@ -1,0 +1,9 @@
+Package: com.conf1rmed.disablevolume
+Name: disablevolume
+Depends: mobilesubstrate
+Version: 2.0.0
+Architecture: iphoneos-arm
+Description: disables volume buttons
+Maintainer: conf1rmed
+Author: conf1rmed
+Section: Tweaks
