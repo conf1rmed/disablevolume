@@ -19,7 +19,7 @@
 
 -(void)sourceCode{
 	[[UIApplication sharedApplication]
-	openURL:[NSURL URLWithString:@"https://github.com/conf1rmed/disablevolume"]
+	openURL:[NSURL URLWithString:@"https://github.com/conf1rmed"]
 	options:@{}
 	completionHandler:nil];
 }
